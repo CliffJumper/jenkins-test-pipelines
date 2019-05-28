@@ -1,6 +1,6 @@
 
 
-@Library('pipeline-library-demo')_
+@Library('cf-examples-libs')_
 
 pipeline {
   agent any
